@@ -1,3 +1,22 @@
+Invoices App 
+[Laravel Complete Project]
+Link: https://github.com/EngAbdo74/Invoices.git
+
+	• Calculate invoices for companies and the commission for    
+                Payment , specifying paid , unpaid , and partially paid .
+	• Use A theme for Front-End .
+	• Breeze Authentication .    
+	• A Secure way to store and display Invoices And File in Project
+	   And Database .
+	• Soft delete , Archive Data , Print Invoice , Export Excel For Table ,
+	   Reports , Statistical Home Page And Notification Via Database
+	• Spatie Permission For Users And Roles .
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
